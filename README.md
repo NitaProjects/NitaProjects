@@ -14,7 +14,7 @@
 - [NitaBlog](https://github.com/NitaProjects/NitaBlog) – Blog personal con Laravel
 - [NitaFlow](https://github.com/NitaProjects/NitaFlow) – Gestión de equipos y tareas
 
-📫 Puedes contactarme en: **daniel.nita.dev@gmail.com**
+📫 Puedes contactarme en: **daniel.nita@hotmail.com**
 
 🔗 También estoy en [LinkedIn](https://www.linkedin.com/in/danielnitadev)
 
